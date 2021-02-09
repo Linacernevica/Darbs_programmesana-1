@@ -7,7 +7,7 @@ print(5**2)
 #2)Apsîtis Edvards
 
 #3)Èeròevièa Letîcija Lîna
-
+print 3/3
 #4)Drozdova Miðelle
 
 #5)Karlinskis Renârs
